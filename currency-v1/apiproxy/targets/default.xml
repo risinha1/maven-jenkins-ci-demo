@@ -9,9 +9,9 @@
 			<Step>
 				<Name>AssignMessage.SetResponseContentTypeToJson</Name>
 			</Step>
-			<Step>
+			<!--<Step>
 				<Name>ExtractVariables.GetTargetErrorMessage</Name>
-			</Step>
+			</Step>-->
 			<Step>
 				<Name>AssignMessage.SetTarget4XXErrorVariables</Name>
 			</Step>
